@@ -133,3 +133,5 @@ The database is named **`recipe_finder`** (MySQL). The `recipes` table has the f
 MIT
 
 <!-- [2024-07-18] feat: setup recipe database schema and backend search endpoints -->
+
+<!-- [2024-07-18] feat: design recipe catalog grid and ingredient filter tags -->
