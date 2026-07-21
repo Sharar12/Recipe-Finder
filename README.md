@@ -131,11 +131,3 @@ The database is named **`recipe_finder`** (MySQL). The `recipes` table has the f
 ## 📄 License
 
 MIT
-
-<!-- [2024-07-18] feat: setup recipe database schema and backend search endpoints -->
-
-<!-- [2024-07-18] feat: design recipe catalog grid and ingredient filter tags -->
-
-<!-- [2024-08-02] feat: implement detailed cooking instructions and nutrition facts modal -->
-
-<!-- [2024-08-02] style: refine recipe card hover animation and favorites bookmarking -->
